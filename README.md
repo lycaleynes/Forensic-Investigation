@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-<p>In today’s digital world, most fraud can be tracked electronically. In this task, you will use Basis Technology’s Autopsy application to analyze a storage device for evidence related to a possible violation of company policy. I have analyzed the storage device for data files, deleted data files, directories, or drive partitions. I have also provided screenshots of my evidence, and written a final report.</p>
+<p>In today’s digital world, most fraud can be tracked electronically. In this project, I used Basis Technology’s Autopsy application to analyze a storage device for evidence related to a possible violation of company policy. I have analyzed the storage device for data files, deleted data files, directories, or drive partitions. I have also provided screenshots of my evidence, and written a final report.</p>
 
 <h2>Scenario</h2>
 
